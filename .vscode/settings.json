@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "c:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Computação\\Linguagens\\Projeto\\libjcalendar-1.4.jar",
+        "c:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Computação\\Linguagens\\Projeto\\ysql-connector-j-8.4.0.jar",
+        "lib/jcalendar-1.4.jar",
+        "lib/mysql-connector-j-8.4.0.jar"
+    ],
+    "java.project.sourcePaths": [
+        "."
+    ],
+}
